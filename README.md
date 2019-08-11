@@ -146,7 +146,7 @@ aws s3api upload-part --bucket 3456testmpb --key 'multipart/bigpic.jpg' --part-n
 ```
 
 
-**7. Complete the multipart uplaod by telling AWS S3 about all of the parts:**
+**8. Complete the multipart uplaod by telling AWS S3 about all of the parts:**
 
 
 ```
